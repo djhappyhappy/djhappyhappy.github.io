@@ -1,6 +1,7 @@
 nav {
   border-right: solid 1px grey;
   width: 200px;
+  float: left;
 }
 body {
   font-family: sans-serif;
