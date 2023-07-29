@@ -1,6 +1,6 @@
 nav {
   border-right: solid 1px transparent;
-  width: 50px;
+  width: 200px;
   height: 700px;
   float: left;
 }
@@ -17,9 +17,9 @@ ul {
 }
 img {
   width: 200px;
-  padding-left: 20px;
-  padding-top: 20px;
 }
 article {
   float: left;
+  padding-left: 20px;
+  padding-top: 20px;
 }
