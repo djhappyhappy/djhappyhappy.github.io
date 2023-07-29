@@ -12,3 +12,7 @@ a {
 ul {
   list-style-type: none;
 }
+img {
+  width: 500;
+  height: auto;
+}
