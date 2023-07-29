@@ -1,6 +1,6 @@
 head {
   border-right: solid 1px grey;
-  border-width: 200;
+  border-width: 200px;
 }
 body {
   font-family: sans-serif;
@@ -13,6 +13,6 @@ ul {
   list-style-type: none;
 }
 img {
-  width: 500;
+  width: 500px;
   height: auto;
 }
