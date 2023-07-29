@@ -1,5 +1,13 @@
+head {
+  border-right: solid 1px grey;
+  border-width: 200;
+}
+body {
+  font-family: sans-serif;
+}
 a {
   text-decoration: none;
+  tex
 }
 ul {
   list-style-type: none;
